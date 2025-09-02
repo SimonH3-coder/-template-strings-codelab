@@ -45,22 +45,5 @@ const myForm = document.getElementById("formular");
 const submitButton = document.getElementById("indsend-knap");
 const personList = document.getElementById("person-liste");
 
-// Fører en person til Array
-// myForm.addEventListener("submit", function(e) {
-//      e.preventDefault();
-
 //   const fornavn = document.getElementById("fornavn").value.trim();
 //   const alder = document.getElementById("alder").value,20);
-
-//   if (fornavn && !isNaN (alder)) {
-//     personer.push({ fornavn, alder });
-//     myForm.reset();
-//     visListe(personer);
-//   }
-// });
-
-// // Roder op i Array efter alder
-// sortBtn.addEventListener("click", function() {
-//     personList.sort((a, b) => a.alder - b.alder);
-//     visListe(personer);
-// });
