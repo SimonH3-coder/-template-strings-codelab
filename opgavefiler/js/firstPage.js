@@ -45,5 +45,5 @@ const myForm = document.getElementById("formular");
 const submitButton = document.getElementById("indsend-knap");
 const personList = document.getElementById("person-liste");
 
-//   const fornavn = document.getElementById("fornavn").value.trim();
+//   const fornavn = document.getElementById("fornavn").value.();
 //   const alder = document.getElementById("alder").value,20);
